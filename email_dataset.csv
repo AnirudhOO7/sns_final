@@ -1,0 +1,25 @@
+id,text,label
+1,"Dear user, Your account will be suspended within 24 hours unless you verify your identity immediately. Click here to confirm your account details: http://verify-account.com/login",1
+2,"Hi team, Just a reminder that our project meeting is scheduled for Thursday at 2 PM in conference room B. Please bring your progress updates.",0
+3,"URGENT: Your payment of $500 is pending approval. Please review and authorize the transaction immediately by logging into your account: http://secure-payment.com",1
+4,"Hello, I hope you're doing well. I wanted to follow up on the assignment due next week. Let me know if you have any questions about the requirements.",0
+5,"Security Alert: Unusual activity detected on your account. Verify your password now to prevent suspension: http://security-check.com/verify",1
+6,"Good morning, The office will be closed next Monday for the holiday. Please plan accordingly and finish any urgent tasks by Friday.",0
+7,"Your invoice #4721 requires immediate attention. Click the link below to review and approve payment before the deadline: http://invoice-portal.com",1
+8,"Hey, Thanks for your email. I'll review the document and get back to you by end of week with my feedback.",0
+9,"FINAL NOTICE: Your account access will be revoked unless you update your information within 12 hours. Click here: http://account-update.com",1
+10,"Hi everyone, I've uploaded the latest version of the presentation to the shared drive. Feel free to add your slides to the appropriate sections.",0
+11,"Bank Alert: Suspicious transfer detected. Confirm your identity immediately to prevent account closure: http://bank-verify.com/login",1
+12,"Hello, I wanted to schedule office hours for next week. Are you available Tuesday or Wednesday afternoon?",0
+13,"Password Reset Required: Your password has expired. Update it now to maintain access to your account: http://password-reset.com",1
+14,"Good afternoon, The seminar on machine learning has been rescheduled to next Friday at 3 PM. Hope to see you there.",0
+15,"URGENT: Complete your security verification within 2 hours or your account will be permanently disabled: http://verify-now.com",1
+16,"Hi, I'm working on the research paper and wanted to confirm the citation format we should use. Could you clarify?",0
+17,"Important: Your subscription payment failed. Update your billing information immediately to avoid service interruption: http://billing-update.com",1
+18,"Hello team, The quarterly report is due next Monday. Please submit your sections by Thursday so we have time to review.",0
+19,"Action Required: Unauthorized login attempt detected. Secure your account now by clicking here: http://secure-login.com/verify",1
+20,"Hi, Just wanted to check in and see how your project is progressing. Let me know if you need any help or resources.",0
+21,"ALERT: Your package delivery requires confirmation. Click to verify your address and schedule redelivery: http://package-confirm.com",1
+22,"Good morning, I've reserved the lab for our experiment on Wednesday from 10 AM to 2 PM. See you then.",0
+23,"Critical Security Update: Your account credentials may have been compromised. Reset your password immediately: http://emergency-reset.com",1
+24,"Hello, Thank you for attending yesterday's meeting. I'll send out the minutes and action items by end of day.",0
